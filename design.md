@@ -1,7 +1,7 @@
 ---
 layout: archive
-title: Design
+title: SIMPLE
 permalink: /design/
 category: "design"
-tagline: "it's all about perception."
+tagline: "Cheers to making life easier!"
 ---
