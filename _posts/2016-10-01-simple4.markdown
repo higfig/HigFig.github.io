@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "Hanging Items"
+date:   2016-03-30 19:45:31 +0530
+categories: ["design"]
+---
+
+{% include image name="http://static.boredpanda.com/blog/wp-content/uuuploads/life-hacks/life-hacks-1.jpg" caption="Funny Helping Hanger" %}
