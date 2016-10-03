@@ -1,7 +1,7 @@
 ---
 layout: archive
-title: Science
+title: Relaxing
 permalink: /science/
-tagline: "Humanity is overrated."
+tagline: "Learn to live easy"
 category: "science"
 ---
