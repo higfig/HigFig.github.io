@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "Cooking Smart"
+date:   2016-10-01 19:45:31 +0530
+categories: ["design"]
+---
+
+<img src="http://static.boredpanda.com/blog/wp-content/uuuploads/life-hacks/life-hacks-12.jpg" alt="Cooking">
