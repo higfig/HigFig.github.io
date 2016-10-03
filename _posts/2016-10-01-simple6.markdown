@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "How to eat a popsicle without dripping"
+date:   2016-10-01 19:45:31 +0530
+categories: ["design"]
+---
+
+<img src="http://static.boredpanda.com/blog/wp-content/uuuploads/life-hacks/life-hacks-34.jpg" alt="Popsicle">
