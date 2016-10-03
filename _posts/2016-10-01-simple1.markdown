@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Bagels"
-date:   2016-03-30 19:45:31 +0530
+date:   2016-10-01 19:45:31 +0530
 categories: ["design"]
 ---
 <img src="http://static.boredpanda.com/blog/wp-content/uuuploads/life-hacks/life-hacks-10.jpg" alt="Bagel">

@@ -1,8 +1,8 @@
 ---
 layout: post
 title:  "Making Life A Little Easier"
-date:   2016-03-30 19:45:31 +0530
+date:   2016-10-02 19:45:31 +0530
 categories: ["design"]
 ---
 
-Life can sometimes be really difficult. Its always nice to find out ways to make life more easier. Above are neat life tips that might come in clutch in the near future. 
+Life can sometimes be really difficult. Its always nice to find out ways to make life more easier. Below are neat life tips that might come in clutch in the near future. 
