@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Reason for Website"
-date:   2016-09-27 19:45:31 +0530
+date:   2016-10-04 19:45:31 +0530
 categories: ["life", "friends"]
 ---
 
