@@ -73,6 +73,8 @@ body {
     color: maroon;
   background: url(https://img.buzzfeed.com/buzzfeed-static/static/2014-10/17/11/enhanced/webdr05/enhanced-buzz-wide-5133-1413559775-14.jpg);
   background-repeat: no-repeat;
+  background-size: 100% 100%;
+  
     -webkit-text-size-adjust: 100%;
     -webkit-font-feature-settings: "kern" 1;
     -moz-font-feature-settings: "kern" 1;
@@ -81,6 +83,9 @@ body {
     font-kerning: normal;
     border-style: ridge;
     border-width: 15px;
+}
+html {
+    height: 100%
 }
 
 
