@@ -3,3 +3,19 @@ title:  "Taking a breather from everyday life"
 date:   2016-10-01 19:45:31 +0530
 categories: ["relaxing"]
 ---
+
+ 
+Here are a couple of images showing different vacation destinations and here is an embed giving you information on these places:
+<a data-pin-do="embedPin" href="https://www.pinterest.com/pin/75153887509854784/"></a>
+
+ <img src="https://images.oyster.com/photos/main-pool--v2251398-720.jpg" alt="Vacation">
+  <img src="https://images.oyster.com/photos/one-bedroom-ocean-view-suite--v1500638-46-720.jpg" alt="Vacation">
+   <img src="https://images.oyster.com/photos/jacuzzi--v1227362-54-720.jpg" alt="Vacation">
+    <img src="https://images.oyster.com/photos/beach--v3797428-720.jpg" alt="Vacation">
+     <img src="https://images.oyster.com/photos/ocean-view-king-deluxe-original-building--v1895585-56-720.jpg" alt="Vacation">
+ 
+ 
+
+ 
+
+ 
