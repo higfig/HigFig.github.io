@@ -72,6 +72,7 @@ body {
     font: $base-font-weight #{$base-font-size}/#{$base-line-height} $base-font-family;
     color: maroon;
   background: url(https://img.buzzfeed.com/buzzfeed-static/static/2014-10/17/11/enhanced/webdr05/enhanced-buzz-wide-5133-1413559775-14.jpg);
+  background-repeat: no-repeat;
     -webkit-text-size-adjust: 100%;
     -webkit-font-feature-settings: "kern" 1;
     -moz-font-feature-settings: "kern" 1;
