@@ -1,0 +1,11 @@
+---
+layout: post
+title:  "Looking for a more granola adventure?"
+date:   2016-10-01 19:45:31 +0530
+categories: ["relaxing"]
+---
+
+I am bring you the best of the best, a woodland adventure. Sometimes the beach just doesn't cut it and you want to feel more adventurous. Well here I am to provide you with the best hiking trails that offer gorgeous views of watersfalls. 
+
+<a data-pin-do="embedPin" href="https://www.pinterest.com/pin/154881674662296444/"></a>
+<script async defer src="//assets.pinterest.com/js/pinit.js"></script>
