@@ -1,4 +1,5 @@
-ayout: post
+---
+layout: post
 title:  "Taking a breather from everyday life"
 date:   2016-10-01 19:45:31 +0530
 categories: ["relaxing"]
