@@ -4,9 +4,12 @@ title:  "How to vacation right"
 date:   2016-10-01 19:45:31 +0530
 categories: ["relaxing"]
 ---
+    
 
-Waiting to get away? Fear no more, I have found the perfect pinterest post. Here are a couple of images showing different vacation destinations and at the bottom is an embed giving you information on these places:
 
+Waiting to get away? Fear no more, I have found the perfect pinterest post. Here are a couple of images showing different vacation destinations and an embed giving you information on these places:
+     <a data-pin-do="embedPin" href="https://www.pinterest.com/pin/75153887509854784/"></a>
+<script async defer src="//assets.pinterest.com/js/pinit.js"></script>
 
  <img src="https://images.oyster.com/photos/main-pool--v2251398-720.jpg" alt="Vacation">
   <img src="https://images.oyster.com/photos/one-bedroom-ocean-view-suite--v1500638-46-720.jpg" alt="Vacation">
@@ -14,10 +17,7 @@ Waiting to get away? Fear no more, I have found the perfect pinterest post. Here
     <img src="https://images.oyster.com/photos/beach--v3797428-720.jpg" alt="Vacation">
      <img src="https://images.oyster.com/photos/ocean-view-king-deluxe-original-building--v1895585-56-720.jpg" alt="Vacation">
      
-     <a data-pin-do="embedPin" href="https://www.pinterest.com/pin/75153887509854784/"></a>
-<script async defer src="//assets.pinterest.com/js/pinit.js"></script>
- 
- 
+
 
  
 
