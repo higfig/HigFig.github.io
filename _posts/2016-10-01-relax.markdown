@@ -1,0 +1,11 @@
+ayout: post
+title:  "Taking a breather from everyday life"
+date:   2016-10-01 19:45:31 +0530
+categories: ["science"]
+---
+<img class="mySlides" src="https://images.oyster.com/photos/main-pool--v2251398-720.jpg">
+<img class="mySlides" src="https://images.oyster.com/photos/one-bedroom-ocean-view-suite--v1500638-46-720.jpg">
+<img class="mySlides" src="https://images.oyster.com/photos/jacuzzi--v1227362-54-720.jpg">
+
+<a class="w3-btn-floating" onclick="plusDivs(-1)">&#10094;</a>
+<a class="w3-btn-floating" onclick="plusDivs(+1)">&#10095;</a>
