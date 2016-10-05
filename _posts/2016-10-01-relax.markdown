@@ -9,7 +9,7 @@ categories: ["relaxing"]
 
 Waiting to get away? Fear no more, I have found the perfect pinterest post. Here are a couple of images showing different vacation destinations and an embed giving you information on these places:
      
-<a data-pin-do="buttonFollow" href="https://www.pinterest.com/pin/75153887509854784/">Pinterest</a>
+<a data-pin-do="buttonFollow" href="https://www.pinterest.com/pin/400820435570028570/">Pinterest</a>
 <script async defer src="//assets.pinterest.com/js/pinit.js"></script>
 
  <img src="https://images.oyster.com/photos/main-pool--v2251398-720.jpg" alt="Vacation">
