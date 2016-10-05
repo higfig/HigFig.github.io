@@ -18,9 +18,9 @@ $text-color:       #111;
 $background-color: #fdfdfd;
 $brand-color:      #2a7ae2;
 
-$grey-color:       #828282;
-$grey-color-light: lighten($grey-color, 40%);
-$grey-color-dark:  darken($grey-color, 25%);
+$black-color:       #828282;
+$black-color-light: lighten($black-color, 40%);
+$black-color-dark:  darken($black-color, 25%);
 
 // Width of the content area
 $content-width:    800px;
@@ -70,8 +70,9 @@ dl, dd, ol, ul, figure {
  */
 body {
     font: $base-font-weight #{$base-font-size}/#{$base-line-height} $base-font-family;
-    color: maroon;
-  background: url(https://img.buzzfeed.com/buzzfeed-static/static/2014-10/17/11/enhanced/webdr05/enhanced-buzz-wide-5133-1413559775-14.jpg);
+    font-weight: bold;
+    color: black;
+  background: url(http://cedarcanyontextiles.com/wp-content/uploads/2015/10/New-CCT-Website7-background-final-light.gif);
   background-repeat: no-repeat;
   background-size: 100% 100%;
   
@@ -205,7 +206,7 @@ a {
  */
 blockquote {
     color: black;
-    border-left: 4px solid $grey-color-light;
+    border-left: 4px solid $black-color-light;
     padding-left: $spacing-unit / 2;
     font-size: 18px;
     letter-spacing: -1px;
@@ -224,7 +225,7 @@ blockquote {
 pre,
 code {
     font-size: 15px;
-    border: 1px solid $grey-color-light;
+    border: 1px solid $black-color-light;
     border-radius: 3px;
     background-color: #eef;
 }
@@ -376,8 +377,8 @@ pre {
  * Site header
  */
 .site-header {
-  border-top: 5px solid $grey-color-dark;
-  border-bottom: 1px solid $grey-color-light;
+  border-top: 5px solid $black-color-dark;
+  border-bottom: 1px solid $black-color-light;
   min-height: 56px;
   // Positioning context for the mobile navigation icon
   position: relative;
@@ -391,7 +392,7 @@ pre {
   margin-top: 1em;
   &,
   &:visited {
-    color: $grey-color-dark;
+    color: $black-color-dark;
   }
 }
 .site-description {
@@ -445,7 +446,7 @@ pre {
     top: 9px;
     right: $spacing-unit / 2;
     background-color: $background-color;
-    border: 1px solid $grey-color-light;
+    border: 1px solid $black-color-light;
     border-radius: 5px;
     text-align: right;
     .menu-icon {
@@ -460,7 +461,7 @@ pre {
         width: 18px;
         height: 15px;
         path {
-          fill: $grey-color-dark;
+          fill: $black-color-dark;
         }
       }
     }
@@ -486,7 +487,7 @@ pre {
  * Site footer
  */
 .site-footer {
-  border-top: 1px solid $grey-color-light;
+  border-top: 1px solid $black-color-light;
   padding: $spacing-unit 0;
 }
 .footer-heading {
@@ -503,7 +504,7 @@ pre {
 }
 .footer-col-wrapper {
   font-size: 15px;
-  color: $grey-color;
+  color: $black-color;
   margin-left: -$spacing-unit / 2;
   @extend %clearfix;
 }
@@ -565,7 +566,7 @@ pre {
 }
 .post-meta {
   font-size: $small-font-size;
-  color: $grey-color;
+  color: $black-color;
   text-transform: uppercase;
   font-size: 16px;
 }
