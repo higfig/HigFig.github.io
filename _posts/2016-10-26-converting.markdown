@@ -16,7 +16,11 @@ https://ide.c9.io/higfig/assignment3
 
 Links to all of your source and output files, and your script on Github below:
 Docx: https://github.com/inls161/assignment-3-higfig/blob/master/jazz.docx
+
 HTML: https://github.com/inls161/assignment-3-higfig/blob/master/jazz.html
+
 Markdown: https://github.com/inls161/assignment-3-higfig/blob/master/jazz.md
+
 ODT: https://github.com/inls161/assignment-3-higfig/blob/master/jazz.odt
+
 PDF: https://github.com/inls161/assignment-3-higfig/blob/master/jazz.pdf
