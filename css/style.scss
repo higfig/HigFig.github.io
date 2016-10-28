@@ -75,15 +75,15 @@ body {
   background: url(http://cedarcanyontextiles.com/wp-content/uploads/2015/10/New-CCT-Website7-background-final-light.gif);
   background-repeat: repeat;
   background-size: 100% 100%;
-  
+      border-style: ridge;
+    border-width: 15px;
     -webkit-text-size-adjust: 100%;
     -webkit-font-feature-settings: "kern" 1;
     -moz-font-feature-settings: "kern" 1;
     -o-font-feature-settings: "kern" 1;
     font-feature-settings: "kern" 1;
     font-kerning: normal;
-    border-style: ridge;
-    border-width: 15px;
+
 }
 html {
     height: 100%
@@ -258,6 +258,7 @@ pre {
     padding-right: $spacing-unit;
     padding-left: $spacing-unit;
     text-align: center;
+
     @extend %clearfix;
 
     @include media-query($on-laptop) {
