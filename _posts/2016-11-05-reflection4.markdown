@@ -1,0 +1,12 @@
+---
+layout: post
+title:  "Assignment 4 Reflection"
+date:   2016-11-06 19:45:31 +0530
+categories: ["life", "friends"]
+---
+
+This project was an interesting one to complete. I was placed in a group with Kelsey and Tabitha, which was a little different than the other assignments. This time we were assigned partners to work with and collaborate ourselves to work together. We have worked in groups before but it wasn’t like this time. This time we had to take into account any change that was made by any member.  This is what made it more difficult, solely based on the fact that we had to make sure we were all on the same page. Although it wasn’t too difficult, it was probably the first challenge to overcome. This lead us to our biggest challenge, when one of us would make changes it wouldn’t show up on the other two computers. For example, when I was trying to move over all the extra pages into the prep folder I had successfully done it but for some reason Kelsey and Tabitha couldn’t pull the information. They both had a merging issue that was caused by having some changes that differed from the changes I had made. We then found a neat command that was `git stash` and it basically stashed all that they had changed and it finally let them merge. That was our first issue, which started right at the beginning of the assignment. After that we created the five questions, and wrote a simple script asking for those answers. We then moved on to the next part but we were having trouble on how to write a random string of characters to a variable as a unique identifier. We really didn’t understand what it meant by that until we had an explanation. After that we did some research and found a code that could generate a random 32-string variable. Much of our script making involved all of our ideas, any code we had for the script, Tabitha would write down. I played a part in finding the unique identifier and helping with the color. The rest of the code was simple echo and read commands that involved the questions. Finally, our last issue was trying to figure out how to not have our `csv` file be overwritten every time we put in new information. We were all struggling until a light bulb went off and we figured out how to append the document. Not many other issues arose after that, at one point we were having a small issue with our color for our script but it was quickly resolved. Overall, working with partners for an assignment was a nifty new experience. 
+
+LINK TO GITHUB REPOSITORY:
+
+https://github.com/tfrahm/fred-s-ghost-assignment-4
